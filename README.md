@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Saakshi Sharma</h1>
-# 💫 About Me:
+ 💫 About Me:
 A passionate developer<br>Currently pursuing my bachelor's in computer applications
 
 
